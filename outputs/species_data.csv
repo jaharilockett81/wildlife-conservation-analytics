@@ -1,0 +1,21 @@
+species,status,region,pop_2000,pop_2023,habitat_loss,poaching,threat,pct_change,high_risk
+Vaquita,CR,North America,570,7,82,9.5,Bycatch,-98.8,1
+Javan Rhino,CR,Southeast Asia,58,50,74,8.5,Poaching,-13.8,1
+Amur Leopard,CR,East Asia,30,100,58,7.0,Habitat loss,233.3,1
+Sumatran Orangutan,CR,Southeast Asia,15000,13800,67,4.0,Deforestation,-8.0,1
+Black Rhino,CR,Sub-Saharan Africa,2700,6788,48,8.0,Poaching (recovering),151.4,1
+Cross River Gorilla,CR,Central Africa,300,275,55,5.5,Bushmeat,-8.3,1
+Hawksbill Turtle,CR,Global,15000,8000,50,6.0,Poaching,-46.7,1
+Saola,CR,Southeast Asia,200,30,72,7.5,Snaring,-85.0,1
+Bengal Tiger,EN,South Asia,3500,3900,42,7.5,Poaching,11.4,0
+Chimpanzee,EN,Central Africa,250000,230000,44,4.5,Deforestation,-8.0,0
+African Wild Dog,EN,Sub-Saharan Africa,5000,6600,36,3.0,Human conflict,32.0,0
+Bornean Orangutan,EN,Southeast Asia,80000,75000,60,4.0,Deforestation,-6.2,0
+Green Sea Turtle,EN,Global,100000,85000,28,5.0,Bycatch,-15.0,0
+Irrawaddy Dolphin,EN,Southeast Asia,100,90,45,6.5,Overfishing,-10.0,0
+Snow Leopard,VU,Central Asia,5500,4500,34,5.5,Climate,-18.2,1
+African Elephant,VU,Sub-Saharan Africa,470000,415000,30,7.0,Ivory poaching,-11.7,0
+Giant Panda,VU,East Asia,1600,1864,22,2.0,Habitat (recovering),16.5,0
+Polar Bear,VU,Arctic,22000,26000,18,1.5,Climate change,18.2,0
+Leatherback Turtle,VU,Global,40000,34000,38,4.0,Bycatch,-15.0,0
+Clouded Leopard,VU,Southeast Asia,10000,9000,33,4.5,Deforestation,-10.0,0

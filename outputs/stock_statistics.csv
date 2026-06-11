@@ -1,0 +1,6 @@
+ticker,name,price,cagr_pct,vol_pct,source
+NVDA,NVIDIA,208.63999938964844,64.94,51.36,yfinance (live)
+AAPL,Apple,301.5400085449219,19.57,27.38,yfinance (live)
+MSFT,Microsoft,411.739990234375,11.14,26.65,yfinance (live)
+SPY,S&P 500 ETF,739.219970703125,13.49,17.07,yfinance (live)
+QQQ,Nasdaq-100 ETF,716.0700073242188,17.07,22.47,yfinance (live)
