@@ -36,7 +36,7 @@ Every population number is sourced from a published report — not made up.
 
 ```bash
 pip install -r requirements.txt
-python biodiversity_analysis.py
+python WildlifeConservationDataAnalysis.py
 ```
 
 -----
@@ -60,8 +60,8 @@ outputs/
 ## 📂 Project Structure
 
 ```
-biodiversity/
-├── biodiversity_analysis.py   # Main script
+WildlifeConservation/
+├── WildlifeConservationDataAnalysis.py   # Main script
 ├── requirements.txt
 ├── README.md
 ├── figures/
