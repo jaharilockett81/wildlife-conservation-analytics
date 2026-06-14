@@ -73,16 +73,20 @@ WildlifeConservation/
 ## Sample Visualizations
 
 ### Population Change Analysis
-![Population Change](fig1_population_change.png)
+
+![Population Change](figures/fig1_population_change.png)
 
 ### Habitat Loss Analysis
-![Habitat Analysis](fig2_habitat_scatter.png)
+
+![Habitat Analysis](figures/fig2_habitat_scatter.png)
 
 ### Population Simulations
-![Population Simulations](fig3_simulations.png)
+
+![Population Simulations](figures/fig3_simulations.png)
 
 ### Feature Importance
-![Feature Importance](fig4_feature_importance.png)
+
+![Feature Importance](figures/fig4_feature_importance.png)
 
 -----
 
